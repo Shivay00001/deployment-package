@@ -23,3 +23,8 @@ Extract the components or run the provided scripts to initialize the environment
 - Python 3.11+
 - Web3.py
 - Redis
+
+
+## Installation
+Follow standard installation steps for this language.
+
